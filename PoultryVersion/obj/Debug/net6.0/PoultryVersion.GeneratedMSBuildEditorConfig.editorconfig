@@ -1,0 +1,168 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PoultryVersion
+build_property.RootNamespace = PoultryVersion
+build_property.ProjectDir = C:\Users\User\Downloads\PoultryVersion\PoultryVersion\PoultryVersion\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\User\Downloads\PoultryVersion\PoultryVersion\PoultryVersion
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/User/Downloads/PoultryVersion/PoultryVersion/PoultryVersion/Views/Account/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/PoultryVersion/PoultryVersion/PoultryVersion/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/PoultryVersion/PoultryVersion/PoultryVersion/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/PoultryVersion/PoultryVersion/PoultryVersion/Views/Roles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/PoultryVersion/PoultryVersion/PoultryVersion/Views/Roles/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/PoultryVersion/PoultryVersion/PoultryVersion/Views/Roles/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/PoultryVersion/PoultryVersion/PoultryVersion/Views/Roles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/PoultryVersion/PoultryVersion/PoultryVersion/Views/Roles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/PoultryVersion/PoultryVersion/PoultryVersion/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/PoultryVersion/PoultryVersion/PoultryVersion/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/PoultryVersion/PoultryVersion/PoultryVersion/Views/TblDiseases/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsRGlzZWFzZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/PoultryVersion/PoultryVersion/PoultryVersion/Views/TblDiseases/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsRGlzZWFzZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/PoultryVersion/PoultryVersion/PoultryVersion/Views/TblDiseases/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsRGlzZWFzZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/PoultryVersion/PoultryVersion/PoultryVersion/Views/TblDiseases/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsRGlzZWFzZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/PoultryVersion/PoultryVersion/PoultryVersion/Views/TblDiseases/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsRGlzZWFzZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/PoultryVersion/PoultryVersion/PoultryVersion/Views/TblPoultryFarms/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsUG91bHRyeUZhcm1zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/PoultryVersion/PoultryVersion/PoultryVersion/Views/TblPoultryFarms/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsUG91bHRyeUZhcm1zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/PoultryVersion/PoultryVersion/PoultryVersion/Views/TblPoultryFarms/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsUG91bHRyeUZhcm1zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/PoultryVersion/PoultryVersion/PoultryVersion/Views/TblPoultryFarms/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsUG91bHRyeUZhcm1zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/PoultryVersion/PoultryVersion/PoultryVersion/Views/TblPoultryFarms/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsUG91bHRyeUZhcm1zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/PoultryVersion/PoultryVersion/PoultryVersion/Views/TblProductions/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsUHJvZHVjdGlvbnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/PoultryVersion/PoultryVersion/PoultryVersion/Views/TblProductions/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsUHJvZHVjdGlvbnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/PoultryVersion/PoultryVersion/PoultryVersion/Views/TblProductions/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsUHJvZHVjdGlvbnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/PoultryVersion/PoultryVersion/PoultryVersion/Views/TblProductions/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsUHJvZHVjdGlvbnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/PoultryVersion/PoultryVersion/PoultryVersion/Views/TblProductions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsUHJvZHVjdGlvbnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/PoultryVersion/PoultryVersion/PoultryVersion/Views/TblTreatments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsVHJlYXRtZW50c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/PoultryVersion/PoultryVersion/PoultryVersion/Views/TblTreatments/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsVHJlYXRtZW50c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/PoultryVersion/PoultryVersion/PoultryVersion/Views/TblTreatments/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsVHJlYXRtZW50c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/PoultryVersion/PoultryVersion/PoultryVersion/Views/TblTreatments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsVHJlYXRtZW50c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/PoultryVersion/PoultryVersion/PoultryVersion/Views/TblTreatments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsVHJlYXRtZW50c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/PoultryVersion/PoultryVersion/PoultryVersion/Views/TblUsers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsVXNlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/PoultryVersion/PoultryVersion/PoultryVersion/Views/TblUsers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsVXNlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/PoultryVersion/PoultryVersion/PoultryVersion/Views/TblUsers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsVXNlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/PoultryVersion/PoultryVersion/PoultryVersion/Views/TblUsers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsVXNlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/PoultryVersion/PoultryVersion/PoultryVersion/Views/TblUsers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/PoultryVersion/PoultryVersion/PoultryVersion/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/PoultryVersion/PoultryVersion/PoultryVersion/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/PoultryVersion/PoultryVersion/PoultryVersion/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-5f0cl8zmrd

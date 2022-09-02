@@ -1,0 +1,1 @@
+Our poultry management system is a web-based platform. It mainly focuses on egg production poultry, through which user collect the information analyze the information for better management of poultry. The system collects the daily information like food consume, medicine taken, egg production, mortality, type of eggs produced etc. It also schedules the vaccine. 

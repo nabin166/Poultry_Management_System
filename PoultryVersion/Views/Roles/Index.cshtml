@@ -1,0 +1,35 @@
+﻿@model IEnumerable<PoultryVersion.Models.Role>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>ROLE</h1>
+
+<p>
+    <a class="text-decoration-none" asp-action="Create">Create New <i class="fa-solid fa-circle-plus"></i></a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Roles)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Roles)
+            </td>
+            <td>
+                        <a asp-action="Edit" asp-route-id="@item.Id"><i class="fa-solid fa-pen-to-square"></i></a> |
+              @*  <a asp-action="Details" asp-route-id="@item.Id"></a> |*@
+                <a asp-action="Delete" asp-route-id="@item.Id"><i class="fa-solid fa-trash"></i></a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

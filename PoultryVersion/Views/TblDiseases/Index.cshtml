@@ -1,0 +1,59 @@
+﻿@model IEnumerable<PoultryVersion.Models.TblDisease>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>DISEASE</h1>
+
+<p>
+    <a class="text-decoration-none" asp-action="Create">Create New <i class="fa-solid fa-circle-plus"></i></a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.DiseaseName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EffectiveNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Date)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NoOfDead)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Poultry)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.DiseaseName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EffectiveNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Date)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NoOfDead)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Poultry.Id)
+            </td>
+            <td>
+                         <a asp-action="Edit" asp-route-id="@item.Id"><i class="fa-solid fa-pen-to-square"></i></a> |
+              @*  <a asp-action="Details" asp-route-id="@item.Id"></a> |*@
+                <a asp-action="Delete" asp-route-id="@item.Id"><i class="fa-solid fa-trash"></i></a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
